@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,4 +31,4 @@ Work experience
 * Stanford University, Palo Alto CA
   * 2002-2003: Szego Assistant Professor of Mathematics
 
-[Link to complete CV](https://drive.google.com/file/d/16LXleNg3_r9X2LPMBtIAiPg5uw03cIvX/view?usp=sharing) **Last edited 2021**
+[Link to complete CV](https://drive.google.com/file/d/16LXleNg3_r9X2LPMBtIAiPg5uw03cIvX/view?usp=sharing) _Last edited 2021_
