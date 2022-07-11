@@ -31,4 +31,4 @@ Work experience
 * Stanford University, Palo Alto CA
   * 2002-2003: Szego Assistant Professor of Mathematics
 
-[CV last updated 2021](https://drive.google.com/file/d/16LXleNg3_r9X2LPMBtIAiPg5uw03cIvX/view?usp=sharing)
+[Link to complete CV](https://drive.google.com/file/d/16LXleNg3_r9X2LPMBtIAiPg5uw03cIvX/view?usp=sharing) **Last edited 2021**
