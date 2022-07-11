@@ -11,49 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematical Sciences (Pure and Applied Logic Program), Carnegie Mellon University, 2002
+* M.S. in Mathematical Sciences (Pure and Applied Logic Program), Carnegie Mellon University, 1998
+* B.S. with Distinction in Mathematics, University of Illinois Urbana-Champaign, 1996
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Robert Morris University, Pittsburgh PA
+  * 2016-Present: University Professor of Mathematics
+  * 2018-Present: Director of the University Honors Program
+  * 2008-2018: Co-Director of the University Honors Program
+  * 2012-2016: Full Professor of Mathematics
+  * 2009-2012: Associate Professor of Mathematics
+  * 2006-2009: Assistant Professor of Mathematics
+  
+* University of Michigan, Ann Arbor MI
+  * 2003-2006: T.H. Hildebrandt Assistant Professor of Mathematics
+ 
+* Stanford University, Palo Alto CA
+  * 2002-2003: Szego Assistant Professor of Mathematics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[CV last updated 2021](https://drive.google.com/file/d/16LXleNg3_r9X2LPMBtIAiPg5uw03cIvX/view?usp=sharing)
