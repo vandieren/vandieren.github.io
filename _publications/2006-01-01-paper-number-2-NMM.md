@@ -1,4 +1,4 @@
-
+---
 title: "Categoricity in abstract elementary classes with no maximal models."
 collection: publications
 permalink: /publication/2006-01-01-paper-number-2-NMM
