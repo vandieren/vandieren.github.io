@@ -1,6 +1,7 @@
 ---
 title: "The equality S1=D=R"
 collection: publications
+permalink: /publication/paper-number-1-SDR
 
 date: 2003-07-19
 venue: 'Mathematical Logic Quarterly'
