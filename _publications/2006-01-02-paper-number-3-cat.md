@@ -1,5 +1,5 @@
 ---
-title: "Shelah's Categoricity Conjecture from a successor for tame abstract elementary classes.
+title: "Shelah\'s Categoricity Conjecture from a successor for tame abstract elementary classes."
 collection: publications
 permalink: /publication/2006-01-02-paper-number-3-cat
 date: 2006-01-02
